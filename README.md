@@ -8,6 +8,9 @@
 <p align="center">A Ground-Up Windows Performance Manual; less latency, higher fps, better privacy, less bloatware/spyware from Microsoft.</p>
 <p align="center"> ⋆⊱༻𖥸༺⊰⋆ Will appreciate a star! ⋆⊱༻𖥸༺⊰⋆ </p>
 
+## 𖤐 **READ FIRST** 𖤐
+### If you had a system breaking/ransomware/deep root virus on your previous install, I ***HIGHLY*** recommend you install [TronScript](https://old.reddit.com/r/TronScript) as it will optimize and disinfect your old Windows Install.
+
 ## 01. // ⟢ Privacy & Telemetry ⟢
 
 ### [Privacy.sexy](https://privacy.sexy/)
@@ -15,9 +18,6 @@ Most stuff will be done through here, ofc you can always use Chris Titus' Winuti
 Download via the Windows/Linus/macOS button in bottom left of the website.
 
 **I WILL NOT GO OVER ALL OPTIONS TO KEEP CONSISTENCY, IF YOU FEEL LIKE SOMETHING DISABLES WHAT YOU USE, OR YOU'RE LOOKING FORWARD TO DISABLING SOMETHING SPECIFIC AND I DON'T COUNT IT IN, YOU MUST DO IT YOURSELF.**
-
-## 𖤐 **READ FIRST** 𖤐
-### If you had a system breaking/ransomware/deep root virus on your previous install, I ***HIGHLY*** recommend you install [TronScript](https://old.reddit.com/r/TronScript) as it will optimize and disinfect your old Windows Install.
 
 ### 1.1. ᛝ Disable OS Data Collection ᛝ
 Speaks for itself. Here's a list of options to disable:
@@ -109,3 +109,47 @@ In the search bar/settings search bar, search up: ***Game Mode***. Click on the 
 
 ### 1.2. ₊⊹ Turn on HAGS (Hardware-Accelerated GPU Scheduling) ₊⊹
 In the search bar/settings search bar, search up: ***Graphics Settings***. Click on the result matching the phrase, Unfold **Advanced graphics settings** and turn ***Hardware-Accelerated GPU Scheduling*** on.
+
+### 1.3. ₊⊹ Turn Off Mem. Integrity ₊⊹
+In the search bar/settings search bar, search up: ***Device Security***. Click on the result matching the phrase, click **Core isolation details**, and turn **Memory integrity** off.
+
+### 1.4. ₊⊹ Turn On High Perf. Plan ₊⊹
+In the search bar/settings search bar, search up: ***Control Panel***. Click on the result matching the phrase, and once opened navigate to **Hardware and Sound -> Power Options**, there click Show Additional Plans and select **High Performance**
+
+### 1.5. ₊⊹ Update Your GPU Drivers ₊⊹
+
+⁠♡ **NVIDIA Drivers** ⁠♡
+1. Go to the [official NVIDIA website for drivers](https://www.nvidia.com/en-us/drivers/) (or use the NVIDIA app). Select your product category, series (e.g., a 1660 is 16 Series, a 4070 is 40 Series), product, and operating system.
+2. Download the LATEST Game Ready Driver (GRD is recommended for gaming; Studio Drivers prioritize stability for video editing).
+3. Open the .exe file (it will have a name like 551.86-win-xxxxx...).
+4. Keep the default extraction path and click OK.
+5. Once the extraction finishes, the actual driver installer will open. Choose whether you want the driver only or the driver + NVIDIA app.
+6. Proceed with the Express installation.
+Your display and audio may flicker or turn off for a few seconds during installation as display drivers restart. This is completely normal.
+7. Restart your system once finished.
+
+⁠♡ **AMD Drivers** ⁠♡
+1. Go to the [official AMD website for drivers](https://www.amd.com/en/support/download/drivers.html). You can download the AMD Auto-Detect tool (Adrenalin software) or manually select your GPU series.
+2. Download the LATEST driver for your GPU.
+3. Open the downloaded .exe file.
+4. Follow the installation prompts and choose Express/Standard install.
+Your display and audio may flicker or turn off for a few seconds during installation as display drivers restart. This is completely normal.
+5. Restart your system once finished.
+
+### 1.6. ₊⊹ GPU Control Panel Tweaks ₊⊹
+
+♡ **NVIDIA Control Panel** ♡
+Manage 3D Settings → Global Settings:
+- Low Latency Mode: Ultra (or On if game doesn't support Reflex) [OFF usually gives higher fps at the cost of latency]
+- Max Frame Rate: Set to your monitor refresh -3 (e.g., 165Hz → 162 FPS cap)
+- Power Management: Prefer maximum performance
+- Texture Filtering - Quality: Performance
+- Threaded Optimization: On
+- Vertical Sync: Off
+
+♡ **AMD Adrenalin** ♡
+Gaming → Graphics:
+- Radeon Anti-Lag: Enabled on lower fps than hz
+- Radeon Boost: Disabled (unless you really don't care about quality and have no fps)
+- Radeon Chill: Disabled (or set min=max for cap)
+- Wait for Vertical Refresh: Off
