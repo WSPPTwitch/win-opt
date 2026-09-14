@@ -16,6 +16,9 @@ Download via the Windows/Linus/macOS button in bottom left of the website.
 
 **I WILL NOT GO OVER ALL OPTIONS TO KEEP CONSISTENCY, IF YOU FEEL LIKE SOMETHING DISABLES WHAT YOU USE, OR YOU'RE LOOKING FORWARD TO DISABLING SOMETHING SPECIFIC AND I DON'T COUNT IT IN, YOU MUST DO IT YOURSELF.**
 
+## 𖤐 **READ FIRST** 𖤐
+### If you had a system breaking/ransomware/deep root virus on your previous install, I ***HIGHLY*** recommend you install [TronScript](https://old.reddit.com/r/TronScript) as it will optimize and disinfect your old Windows Install.
+
 ### 1.1. ᛝ Disable OS Data Collection ᛝ
 Speaks for itself. Here's a list of options to disable:
 - **(unfold)** Disable app access to personal info
@@ -88,11 +91,21 @@ Removes unwanted programs that boot up in the background, take up minimal space 
   - Disable Windows Push Notifications
 - Remove "Meet Now" icon from taskbar
 
-### 2.1. ᛝ Disable Text & Image generation ᛝ
-In the search bar/settings search bar, search up: ***Text and image generation features and apps privacy settings***. Click on the result matching the phrase, and disable **Text and image generation**
+### 2.1. ☆ Disable Text & Image generation ☆
+In the search bar/settings search bar, search up: ***Text and image generation features and apps privacy settings***. Click on the result matching the phrase, and disable **Text and image generation**.
 
-### 2.2. ᛝ Disable App Diagnostics ᛝ
-In the search bar/settings search bar, search up: ***App Diagnostics**. Click on the result matching the phrase, and disable **App diagnostic access**
+### 2.2. ☆ Disable App Diagnostics ☆
+In the search bar/settings search bar, search up: ***App Diagnostics***. Click on the result matching the phrase, and disable **App diagnostic access**.
 
-### 2.2. ᛝ Disable Inking & typing personalization ᛝ
-Go to settings, **Privacy & Security**, and navigate to Inking & typing personalization. There, turn Custom inking and typing dictionary **off**.
+### 2.3. ☆ Disable Inking & typing personalization ☆
+Go to settings, ***Privacy & Security***, and navigate to Inking & typing personalization. There, turn Custom inking and typing dictionary **off**.
+
+
+## 02. // ⟢ Gaming & Latency settings ⟢
+These settings are focused mainly on boosting your game performance, getting less stutters and lowering your latency
+
+### 1.1. ₊⊹ Turn on Game Mode ₊⊹
+In the search bar/settings search bar, search up: ***Game Mode***. Click on the result matching the phrase, and turn **Game Mode** on.
+
+### 1.2. ₊⊹ Turn on HAGS (Hardware-Accelerated GPU Scheduling) ₊⊹
+In the search bar/settings search bar, search up: ***Graphics Settings***. Click on the result matching the phrase, Unfold **Advanced graphics settings** and turn ***Hardware-Accelerated GPU Scheduling*** on.
