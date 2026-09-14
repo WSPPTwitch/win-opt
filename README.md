@@ -153,3 +153,40 @@ Gaming → Graphics:
 - Radeon Boost: Disabled (unless you really don't care about quality and have no fps)
 - Radeon Chill: Disabled (or set min=max for cap)
 - Wait for Vertical Refresh: Off
+
+
+## 03. // ࣪ ִֶָ☾. Tips & Recommendations ࣪ ִֶָ☾.
+
+### 𑁍 Browser & Extension Recommendations 𑁍
+
+### ***Speed, privacy, anti-tracker & adblock*** - [Brave](https://brave.com/)
+### ***Independent, strong privacy & privacy customization, alternative to google*** - [Firefox](https://www.firefox.com/en-US/) ([arkenfox](https://github.com/arkenfox/user.js) - privacy tweak)
+### ***Privacy focused, open source, opposing fingerprinting, Tor browser fork (w/o Tor network)*** - [Mullvad browser](https://mullvad.net/en/browser)
+-=-=-=-=-=-=-=-
+### ***The ultimate adblocker; open-source, professional grade content blocking with being easy on your CPU and RAM*** - [uBlock](https://github.com/gorhill/uBlock) ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)), ([Chrome](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=en))
+### ***Open-source and open API for skipping sponsor segments in YouTube videos*** - [SponsorBlock](https://sponsor.ajay.app/) ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)), ([Chrome](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone))
+
+
+### ⚠︎ Antivirus / Anti-malware programs ⚠︎
+
+### ***Malware & malicious program detector, can detect rootkits and other viruses (need paid premium to serve as an active antivirus, free version is a virus detector)*** - [Malwarebytes](https://www.malwarebytes.com/)
+### ***Active anti-virus, users recommend purchasing a yearly subscription key on unofficial sites*** - [ESET](https://www.eset.com/us/)
+### ***File inspector with over 70 av scanners and URL/domain blocklisting services*** - [VirusTotal](https://www.virustotal.com/gui/home/upload)
+
+
+### ᯽ General Privacy ᯽
+### ***Encrypted Email / Deleted after 1 Year of inactivity*** - [Proton Mail](https://proton.me/mail)
+### ***Encrypted Email / Deleted after 6 mo. of inactivity*** - [Tuta](https://tuta.com/)
+### ***Encrypted Messenger for All Platforms*** - [SimpleX](https://simplex.chat/)
+### ***Fingerprinting test*** - [CreepJS](https://abrahamjuliot.github.io/creepjs/)
+### ***Email breach monitor*** - [haveibeenpwned](https://haveibeenpwned.com/)
+### ***Password breach monitor*** - [haveibeenpwnedpasswords](https://haveibeenpwned.com/Passwords)
+
+### 𖤝 VPNs 𖤝
+### ***Free, unlimited, Wireguard (kill switch)*** - [1.1.1.1](https://one.one.one.one/) ([Config gen](https://colab.research.google.com/drive/1fomBbh0mRxpVoGAY5gYT5zPBnFKsLV9o?usp=sharing))
+### ***Free & Paid, unlimited, No Torrenting w/ free plan*** - [ProtonVPN](https://protonvpn.com/)
+### ***Free & Paid, 10GB Monthly for free, No torrenting w/ free plan*** - [Windscribe](https://windscribe.com/)
+### ***Paid, unlimited*** - [AirVPN](https://airvpn.org/)
+### ***Paid, no-log, no port forwarding*** - [Mullvad VPN](https://mullvad.net/en)
+### ***Paid, no-log, no port forwarding*** - [IVPN](https://www.ivpn.net/en/)
+
