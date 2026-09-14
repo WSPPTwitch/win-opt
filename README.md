@@ -90,3 +90,9 @@ Removes unwanted programs that boot up in the background, take up minimal space 
 
 ### 2.1. ᛝ Disable Text & Image generation ᛝ
 In the search bar/settings search bar, search up: ***Text and image generation features and apps privacy settings***. Click on the result matching the phrase, and disable **Text and image generation**
+
+### 2.2. ᛝ Disable App Diagnostics ᛝ
+In the search bar/settings search bar, search up: ***App Diagnostics**. Click on the result matching the phrase, and disable **App diagnostic access**
+
+### 2.2. ᛝ Disable Inking & typing personalization ᛝ
+Go to settings, **Privacy & Security**, and navigate to Inking & typing personalization. There, turn Custom inking and typing dictionary **off**.
