@@ -190,3 +190,9 @@ Gaming → Graphics:
 ### ***Paid, no-log, no port forwarding*** - [Mullvad VPN](https://mullvad.net/en)
 ### ***Paid, no-log, no port forwarding*** - [IVPN](https://www.ivpn.net/en/)
 
+
+
+Credits
+[KaRzyeCS2 - Optimization Guide](https://www.reddit.com/r/UltimateMove/comments/1qkv5b3/how_to_optimize_windows_11_for_gaming_performance/)
+[FMHY - Programs](https://fmhy.net)
+[ripped.guide - Debloating help](https://ripped.guide/)
