@@ -32,7 +32,6 @@ Speaks for itself. Here's a list of options to disable:
 - Disable Customer Experience Improvement Program
 - Disable Application Experience data collection
 - Disable Windows telemetry and data collection
-- Disable connectivity checks
 - Disable Windows search data collection
 - Disable targeted advertisements and marketing
 - Disable biometrics
