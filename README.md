@@ -189,7 +189,25 @@ Gaming → Graphics:
 ### ***Paid, no-log, no port forwarding*** - [Mullvad VPN](https://mullvad.net/en)
 ### ***Paid, no-log, no port forwarding*** - [IVPN](https://www.ivpn.net/en/)
 
-
+### ㆍ Websites ㆍ
+*Wanna surf the internet? Surf the deep seas and somewhat unethically illegally get their products? Use these **trusted** websites containing links for different websites containing different stuff.
+I'm not responsible for any acts that break the law nor do I support them, I am spreading awareness on websites.
+Remember - Big Devs Only, never indies.*
+### ㆍ Threads/Link websites ㆍ
+### ***Most trusted site, they mark the best and most trusted sites with a star - [FMHY (FreeMediaHeckYeah)](https://fmhy.net/)***
+### ***More niche-like website, made more under software - [Ripped.guide](https://ripped.guide)***
+### ***Contains everything you'd need, recommendation, sites etc. - [r/Piracy megathread](https://www.reddit.com/r/Piracy/wiki/megathread/)***
+### ㆍ Game websites ㆍ
+### ***One of the biggest sites, purely guided by the site devs - [STEAMRIP](https://steamrip.com/)***
+### ***You can request the team to publish a game you want, guided by the devs - [Gamebounty](https://gamebounty.world/)***
+### ***The biggest forum on piracy, guided by pirates and users - [CS RIN](https://cs.rin.ru/forum/)***
+### ***Search engine, searches trusted sites for the game you want - [HizSearch](https://hizsearch.pages.dev/)***
+### ㆍ Movie websites ㆍ
+### ***[Movy](https://www.movy.sx/)***
+### ***[Cinejoy](https://cinejoy.pk/)***
+### ***[7Movies](https://7movies.ac/)***
+### ***[ShuttleTV](https://shuttletv.su/)***
+### ***[Rive](https://www.rivestream.app/)***
 
 Credits
 [KaRzyeCS2 - Optimization Guide](https://www.reddit.com/r/UltimateMove/comments/1qkv5b3/how_to_optimize_windows_11_for_gaming_performance/)
